@@ -1,0 +1,20 @@
+[33m09c843e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Paginação com parametros opcionais na requisição
+[33ma28756a[m Listando todas categorias com DTO
+[33m90d5c7d[m Deletando uma categoria com DELETE
+[33ma1d6a1a[m atualizando categoria com put, outros pequenos ajustes
+[33m54d29f7[m inserindo uma nova Categoria com Post
+[33m1dd1002[m atualização utilização somente jsonignore
+[33m73920f7[m Endpoint /pedidos/{id} disponibilizado
+[33m1eea5c7[m ItemPedido e ItemPedidoPK
+[33mb25ed66[m Pedido, EstadoPagamento e Pagamento
+[33m424abaa[m endpoint /clientes/{id} disponível
+[33m16d7e71[m Cliente, tipoCliente, telefones e enderecos
+[33m6c8fbd2[m Estado e cidade
+[33ma1c2c84[m ajustes no endpoint /categorias/id
+[33m1f29718[m produto e associação muitos para muitos
+[33m17b2d87[m Criando operação de instanciação
+[33mbf11df4[m Criando repository e service para categoria
+[33mf0b16fd[m Banco de dados H2 e criação automatica da base de dados
+[33mc630289[m testando a primeira classe de domínio
+[33m3032518[m REST testado
+[33m4e6873d[m Projeto criado
